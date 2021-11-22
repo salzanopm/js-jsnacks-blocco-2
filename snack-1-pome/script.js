@@ -7,9 +7,9 @@ const userNumber = parseInt(prompt(`Scrivi un unumero`))
 
 // dichiaro variabile numero pari uguale numero utente
 let number= userNumber;
-if (number % 2 == 0) {                                      // se numero pari
-    console.log(number,`Il numero è pari`);                 // stampo
-} else {                                                    // altrimenti 
-    number++;                                               // incremento
-    console.log(`Il numero è dispari aggiungo +1`, number); // stampa numero successivo
+if (number % 2 == 0) {                                          // se numero pari
+    console.log(number,`Il numero è pari`);                     // stampo
+} else {                                                        // altrimenti 
+    number++;                                                   // incremento
+    console.log(`Il numero è allora dispari aggiungo 1`, number); // stampa numero successivo
 }

@@ -6,11 +6,11 @@
  */
 
 // array nomi
-const nameArray = [`Luca`, `Marco`, `Giovanni`, `Matteo`, `Paolo`, `Pietro`];
+const nameArray = [`Paolo`, `Matteo`, `Luca`, `Marco`];
 console.log(`Nomi`, nameArray);
 
 // array cognomi
-const surnameArray = [`Rossi`, `Verdi`, `Bianchi`,];
+const surnameArray = [`Rossi`, `Bianchi`, `Verdi`, `Neri` ];
 console.log(`Cognomi`, surnameArray);
 
 // array nomi e cognomi casuali

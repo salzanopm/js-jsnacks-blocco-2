@@ -5,7 +5,7 @@
  */
 
 // array numeri interi
-const numbers = [17, 46, 72, 87, 24, 35];
+const numbers = [11, 22, 33, 44, 55, 66];
 
 // dichiaro variabile somma
 let somma = 0;
