@@ -27,6 +27,5 @@ for (let i = 0; i < nameArray.length; i++) {
 const guestName = thisName + ' ' + thisLastName;
 casualName.push(guestName);
 console.log(guestName)
-
 }
 
